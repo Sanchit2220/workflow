@@ -1,6 +1,9 @@
 # 💫 About Me:
-i  am currently working
-
+👋 Hi, I'm a Software Engineer passionate about building scalable web applications and writing clean, efficient code.
+💻 I specialize in full-stack development with experience in technologies like JavaScript, React, Node.js, Express, MongoDB, and MySQL.
+🚀 I enjoy solving real-world problems, contributing to open-source, and continuously learning new tools and frameworks.
+🔧 I'm also skilled in testing and automation using tools like Playwright and Cypress.
+🌍 Currently, I’m focused on delivering impactful solutions and collaborating with developers around the world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchit2220) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchit2220@gmail.com) 
